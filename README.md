@@ -8,4 +8,4 @@ python grabcut.py <name_of_image.extension>
 
 Example:
 
-python grabcut.py avengers.
+python grabcut.py avengers.jpg
